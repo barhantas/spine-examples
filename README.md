@@ -1,4 +1,6 @@
 # Spine 2D animation examples
+[Live Demo](https://happy-easley-c07a23.netlify.app/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
